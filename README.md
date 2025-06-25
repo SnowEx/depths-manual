@@ -5,11 +5,11 @@ This repository has scripts to process manually collected snow depths and depth 
 There are up to four main directories organized by SnowEx field campaign year: SnowEx2017, SnowEx2020, SnowEx2021, and SnowEx2023, hereinafter referred to as S17, S20, S21, and S23.
 
 # current repo status
-S23
-  depth-profiles
-    Oct22
-    Mar23
-    Oct23
+- S23
+  - depth-profiles
+    - Oct22
+    - Mar23
+    - Oct23
 
 
 # SnowEx (brief) background: 
