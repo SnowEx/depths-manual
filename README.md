@@ -7,9 +7,9 @@ There are up to four main directories organized by SnowEx field campaign year: S
 # current repo status
 - S23
   - depth-profiles
-    - Oct22
-    - Mar23
-    - Oct23
+    - depth_profiles_Oct22.py
+    - depth_profiles_Mar23.py
+    - depth_profiles_Oct23.py
 
 
 # SnowEx (brief) background: 
