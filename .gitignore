@@ -194,4 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 # Google Drive files
-.DS_Store
+.DS_Store/
